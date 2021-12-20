@@ -11,7 +11,7 @@ namespace ReturnMedicalSystem.Clasess
 {
     class Selection
     {
-        public void showproduct(DataGridView gv,DataGridViewColumn DGv_Id, DataGridViewColumn DGv_name,DataGridViewColumn DGv_Batch, DataGridViewColumn DGv_QTY, DataGridViewColumn DGv_PIN, DataGridViewColumn DGv_POUT, DataGridViewColumn DGv_DS, DataGridViewColumn DGv_Expire,DataGridViewColumn DGv_Barcode, DataGridViewColumn DGv_location, string data=null )
+        public void showproduct(DataGridView gv,DataGridViewColumn DGv_Id, DataGridViewColumn DGv_name, DataGridViewColumn DGv_PIN, DataGridViewColumn DGv_QTY, DataGridViewColumn DGv_DS, DataGridViewColumn DGv_Batch,DataGridViewColumn DGv_POUT, DataGridViewColumn DGv_Expire,DataGridViewColumn DGv_Barcode, DataGridViewColumn DGv_location, string data=null )
         {
 			//product select in all requierd Filed opration
 			try
@@ -32,11 +32,11 @@ namespace ReturnMedicalSystem.Clasess
 				da.Fill(dt);
 				DGv_Id.DataPropertyName = dt.Columns["ID"].ToString();
 				DGv_name.DataPropertyName = dt.Columns["ProductName"].ToString();
-				DGv_Batch.DataPropertyName = dt.Columns["Batch"].ToString();
-				DGv_QTY.DataPropertyName = dt.Columns["Quantity"].ToString();
 				DGv_PIN.DataPropertyName = dt.Columns["PriceIn"].ToString();
-				DGv_POUT.DataPropertyName = dt.Columns["PriceOut"].ToString();
+				DGv_QTY.DataPropertyName = dt.Columns["Quantity"].ToString();
 				DGv_DS.DataPropertyName = dt.Columns["Discount"].ToString();
+				DGv_Batch.DataPropertyName = dt.Columns["Batch"].ToString();
+				DGv_POUT.DataPropertyName = dt.Columns["PriceOut"].ToString();
 				DGv_Expire.DataPropertyName = dt.Columns["Date"].ToString();
 				DGv_Barcode.DataPropertyName = dt.Columns["Barcode"].ToString();
 				DGv_location.DataPropertyName = dt.Columns["Location"].ToString();

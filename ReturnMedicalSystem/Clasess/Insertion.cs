@@ -15,7 +15,7 @@ namespace ReturnMedicalSystem.Clasess
       
       
 
-        public void insertproduct(string name,string batch,string qty,string pin,string pout, string dis, DateTime dt, string barcode, string location)
+        public void insertproduct(string name, string pin, string qty, string dis, string batch,string pout, DateTime dt, string barcode, string location)
         {
             //string value convert to decimal
             decimal quantity = (string.IsNullOrEmpty(qty)) ? 0 : Convert.ToDecimal(qty);
@@ -30,11 +30,11 @@ namespace ReturnMedicalSystem.Clasess
                 
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@name",name);
-                cmd.Parameters.AddWithValue("@batch", batch);
-                cmd.Parameters.AddWithValue("@quantity",quantity);
-                cmd.Parameters.AddWithValue("@priceIn",pricein);
-                cmd.Parameters.AddWithValue("@priceOut",priceout);
+                cmd.Parameters.AddWithValue("@priceIn", pricein);
+                cmd.Parameters.AddWithValue("@quantity", quantity);
                 cmd.Parameters.AddWithValue("@discount", discount);
+                cmd.Parameters.AddWithValue("@batch", batch);
+                cmd.Parameters.AddWithValue("@priceOut",priceout);
                 cmd.Parameters.AddWithValue("@Date", Convert.ToDateTime(dt).ToShortDateString());
                 cmd.Parameters.AddWithValue("@barcode",barcode);
                 cmd.Parameters.AddWithValue("@location", location);

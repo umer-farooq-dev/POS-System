@@ -21,11 +21,11 @@ namespace ReturnMedicalSystem.Clasess
                 cmd.CommandType = CommandType.StoredProcedure;
                 cmd.Parameters.AddWithValue("@id", id);
                 cmd.Parameters.AddWithValue("@name", name);
-                cmd.Parameters.AddWithValue("@batch", batch);
-                cmd.Parameters.AddWithValue("@quantity", qty);
                 cmd.Parameters.AddWithValue("@priceIn", pin);
-                cmd.Parameters.AddWithValue("@piceOut", pout);
+                cmd.Parameters.AddWithValue("@quantity", qty);
                 cmd.Parameters.AddWithValue("@discount", dis);
+                cmd.Parameters.AddWithValue("@batch", batch);
+                cmd.Parameters.AddWithValue("@piceOut", pout);
                 cmd.Parameters.AddWithValue("@Date", Convert.ToDateTime(DateTime.Today).ToShortDateString());
                 cmd.Parameters.AddWithValue("@barcode", barcode);
                 cmd.Parameters.AddWithValue("@location", location);

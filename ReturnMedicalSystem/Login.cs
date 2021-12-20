@@ -44,7 +44,7 @@ namespace ReturnMedicalSystem
                         Dashboard Dash = new Dashboard();
                         this.Hide();
                         Dash.Lbl_User.Text = dataReader["UserType"].ToString();
-                        Dash.Lbl_UserName.Text = dataReader["UserName"].ToString();
+                        //Dash.Lbl_UserName.Text = dataReader["UserName"].ToString();
 
                         Dash.ShowDialog();
 
@@ -124,13 +124,20 @@ namespace ReturnMedicalSystem
 
         private void Btn_Login_Click(object sender, EventArgs e)
         {
-          
+            if(txtUserName.Text=="admin" && txtPassword.Text == "admin")
+            {
+                d.Show();
+            }
+            else
+            {
+                MessageBox.Show("Please enter Corect Username and Password", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
                 
         }
 
         private void button3_Click(object sender, EventArgs e)
         {
-            d.Show();
+           
         }
 
         private void button2_Click(object sender, EventArgs e)

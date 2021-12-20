@@ -134,7 +134,8 @@ namespace ReturnMedicalSystem.Forms
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            Bills b = new Bills();
+            b.Show();
         }
 
         private void button2_Click(object sender, EventArgs e)

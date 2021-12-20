@@ -74,11 +74,11 @@
             this.DataGridView_Product = new System.Windows.Forms.DataGridView();
             this.DGv_Id = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DGv_name = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DGv_Batch = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DGv_QTY = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DGv_PIN = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.DGv_POUT = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DGv_QTY = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DGv_DS = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DGv_Batch = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.DGv_POUT = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DGv_Expire = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DGv_Barcode = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.DGv_location = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -113,8 +113,8 @@
             this.button5.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button5.BackgroundImage")));
             this.button5.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Zoom;
             this.button5.FlatAppearance.BorderSize = 0;
-            this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(162)))), ((int)(((byte)(65)))), ((int)(((byte)(117)))));
-            this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(162)))), ((int)(((byte)(65)))), ((int)(((byte)(117)))));
+            this.button5.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Transparent;
+            this.button5.FlatAppearance.MouseOverBackColor = System.Drawing.Color.Transparent;
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Century", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.Location = new System.Drawing.Point(1152, 10);
@@ -638,11 +638,11 @@
             this.DataGridView_Product.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.DGv_Id,
             this.DGv_name,
-            this.DGv_Batch,
-            this.DGv_QTY,
             this.DGv_PIN,
-            this.DGv_POUT,
+            this.DGv_QTY,
             this.DGv_DS,
+            this.DGv_Batch,
+            this.DGv_POUT,
             this.DGv_Expire,
             this.DGv_Barcode,
             this.DGv_location});
@@ -676,11 +676,11 @@
             this.DGv_name.Name = "DGv_name";
             this.DGv_name.ReadOnly = true;
             // 
-            // DGv_Batch
+            // DGv_PIN
             // 
-            this.DGv_Batch.HeaderText = "BATCH";
-            this.DGv_Batch.Name = "DGv_Batch";
-            this.DGv_Batch.ReadOnly = true;
+            this.DGv_PIN.HeaderText = "PIN";
+            this.DGv_PIN.Name = "DGv_PIN";
+            this.DGv_PIN.ReadOnly = true;
             // 
             // DGv_QTY
             // 
@@ -688,23 +688,23 @@
             this.DGv_QTY.Name = "DGv_QTY";
             this.DGv_QTY.ReadOnly = true;
             // 
-            // DGv_PIN
+            // DGv_DS
             // 
-            this.DGv_PIN.HeaderText = "PIN";
-            this.DGv_PIN.Name = "DGv_PIN";
-            this.DGv_PIN.ReadOnly = true;
+            this.DGv_DS.HeaderText = "DIS";
+            this.DGv_DS.Name = "DGv_DS";
+            this.DGv_DS.ReadOnly = true;
+            // 
+            // DGv_Batch
+            // 
+            this.DGv_Batch.HeaderText = "BATCH";
+            this.DGv_Batch.Name = "DGv_Batch";
+            this.DGv_Batch.ReadOnly = true;
             // 
             // DGv_POUT
             // 
             this.DGv_POUT.HeaderText = "POUT";
             this.DGv_POUT.Name = "DGv_POUT";
             this.DGv_POUT.ReadOnly = true;
-            // 
-            // DGv_DS
-            // 
-            this.DGv_DS.HeaderText = "DIS";
-            this.DGv_DS.Name = "DGv_DS";
-            this.DGv_DS.ReadOnly = true;
             // 
             // DGv_Expire
             // 
@@ -768,6 +768,7 @@
             this.Name = "Product";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Product";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Product_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
@@ -825,17 +826,17 @@
         private System.Windows.Forms.Label lbl_errorLocation;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.TextBox text_Location;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.Button btn_View;
         private System.Windows.Forms.DataGridViewTextBoxColumn DGv_Id;
         private System.Windows.Forms.DataGridViewTextBoxColumn DGv_name;
-        private System.Windows.Forms.DataGridViewTextBoxColumn DGv_Batch;
-        private System.Windows.Forms.DataGridViewTextBoxColumn DGv_QTY;
         private System.Windows.Forms.DataGridViewTextBoxColumn DGv_PIN;
-        private System.Windows.Forms.DataGridViewTextBoxColumn DGv_POUT;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DGv_QTY;
         private System.Windows.Forms.DataGridViewTextBoxColumn DGv_DS;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DGv_Batch;
+        private System.Windows.Forms.DataGridViewTextBoxColumn DGv_POUT;
         private System.Windows.Forms.DataGridViewTextBoxColumn DGv_Expire;
         private System.Windows.Forms.DataGridViewTextBoxColumn DGv_Barcode;
         private System.Windows.Forms.DataGridViewTextBoxColumn DGv_location;
-        private System.Windows.Forms.PictureBox pictureBox1;
-        private System.Windows.Forms.Button btn_View;
     }
 }

@@ -88,8 +88,8 @@ namespace ReturnMedicalSystem.Forms
             {
                 //insert the product
                 Insertion i = new Insertion();
-                i.insertproduct(text_Name.Text, text_Batch.Text, text_QTY.Text, text_PIN.Text, text_POUT.Text, text_DIS.Text, dateTime_Expire.Value, text_Barcode.Text,text_Location.Text);
-                s.showproduct(DataGridView_Product, DGv_Id, DGv_name, DGv_Batch, DGv_QTY, DGv_PIN, DGv_POUT, DGv_DS, DGv_Expire, DGv_Barcode,DGv_location);
+                i.insertproduct(text_Name.Text, text_PIN.Text, text_QTY.Text, text_DIS.Text, text_Batch.Text,text_POUT.Text, dateTime_Expire.Value, text_Barcode.Text,text_Location.Text);
+                s.showproduct(DataGridView_Product, DGv_Id, DGv_name, DGv_PIN, DGv_QTY, DGv_DS, DGv_Batch,DGv_POUT,DGv_Expire, DGv_Barcode,DGv_location);
                 text_Name.Clear();
                 text_Batch.Clear();
                 text_QTY.Clear();
@@ -119,9 +119,8 @@ namespace ReturnMedicalSystem.Forms
 
                 {
                     Updation up = new Updation();
-                    up.updateproduct(productid, text_Name.Text, text_Batch.Text, text_QTY.Text, text_PIN.Text, text_POUT.Text,text_DIS.Text, dateTime_Expire.Value, text_Barcode.Text,text_Location.Text);
-                    s.showproduct(DataGridView_Product, DGv_Id, DGv_name,DGv_Batch,DGv_QTY, DGv_PIN, DGv_POUT, DGv_DS, DGv_Expire, DGv_Barcode, DGv_location);
-                    text_Name.Clear();
+                    up.updateproduct(productid, text_Name.Text, text_PIN.Text, text_QTY.Text, text_DIS.Text, text_Batch.Text, text_POUT.Text, dateTime_Expire.Value, text_Barcode.Text, text_Location.Text);
+                    s.showproduct(DataGridView_Product, DGv_Id, DGv_name, DGv_PIN, DGv_QTY, DGv_DS, DGv_Batch, DGv_POUT, DGv_Expire, DGv_Barcode, DGv_location);
                     text_Batch.Clear();
                     text_QTY.Clear();
                     text_PIN.Clear();
@@ -159,7 +158,7 @@ namespace ReturnMedicalSystem.Forms
             {
                 Deletion d = new Deletion();
                 d.deletion(productid, "stp_deleteProduct", "@id");
-                s.showproduct(DataGridView_Product, DGv_Id, DGv_name,DGv_Batch, DGv_QTY, DGv_PIN, DGv_POUT, DGv_DS, DGv_Expire, DGv_Barcode,DGv_location);
+                s.showproduct(DataGridView_Product, DGv_Id, DGv_name, DGv_PIN, DGv_QTY, DGv_DS, DGv_Batch, DGv_POUT, DGv_Expire, DGv_Barcode, DGv_location);
                 text_Name.Clear();
                 text_Batch.Clear();
                 text_QTY.Clear();
@@ -175,13 +174,13 @@ namespace ReturnMedicalSystem.Forms
 
         private void txt_search_TextChanged(object sender, EventArgs e)
         {
-            if (txt_search.Text != "")
+             if (txt_search.Text != "")
             {
-                s.showproduct(DataGridView_Product, DGv_Id, DGv_name,DGv_Batch, DGv_QTY, DGv_PIN, DGv_POUT, DGv_DS, DGv_Expire, DGv_Barcode,DGv_location, txt_search.Text);
+                s.showproduct(DataGridView_Product, DGv_Id, DGv_name, DGv_PIN, DGv_QTY, DGv_DS, DGv_Batch, DGv_POUT, DGv_Expire, DGv_Barcode, DGv_location, txt_search.Text);
             }
             else
             {
-                s.showproduct(DataGridView_Product, DGv_Id, DGv_name,DGv_Batch, DGv_QTY, DGv_PIN, DGv_POUT, DGv_DS, DGv_Expire, DGv_Barcode,DGv_location);
+                s.showproduct(DataGridView_Product, DGv_Id, DGv_name, DGv_PIN, DGv_QTY, DGv_DS, DGv_Batch, DGv_POUT, DGv_Expire, DGv_Barcode, DGv_location);
             }
         }
 
@@ -240,7 +239,7 @@ namespace ReturnMedicalSystem.Forms
 
         private void btn_View_Click(object sender, EventArgs e)
         {
-            s.showproduct(DataGridView_Product, DGv_Id, DGv_name, DGv_Batch, DGv_QTY, DGv_PIN, DGv_POUT, DGv_DS, DGv_Expire, DGv_Barcode, DGv_location);
+            s.showproduct(DataGridView_Product, DGv_Id, DGv_name, DGv_PIN, DGv_QTY, DGv_DS, DGv_Batch,DGv_POUT,DGv_Expire, DGv_Barcode, DGv_location);
         }
     }
     }

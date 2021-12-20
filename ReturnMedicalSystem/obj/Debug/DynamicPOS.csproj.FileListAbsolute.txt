@@ -135,7 +135,6 @@ F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debu
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Memory.xml
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Numerics.Vectors.xml
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\DynamicPOS.csprojAssemblyReference.cache
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.exe.config
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Forms.CustomerForm.resources
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Forms.Product.resources
@@ -149,3 +148,168 @@ F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debu
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\DynamicPOS.csproj.CopyComplete
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.exe
 F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.pdb
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Forms.Bills.resources
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.DocumentObjectModel-gdi.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.Rendering-gdi.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.RtfRendering-gdi.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\PdfSharp-gdi.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\PdfSharp.Charting-gdi.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.DocumentObjectModel-gdi.xml
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.Rendering-gdi.xml
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.RtfRendering-gdi.xml
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\PdfSharp-gdi.xml
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\PdfSharp.Charting-gdi.xml
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\MigraDoc.Rendering-gdi.resources.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\MigraDoc.RtfRendering-gdi.resources.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\PdfSharp-gdi.resources.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
+F:\Return Projects\Git Projects\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\DynamicPOS.csprojAssemblyReference.cache
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\ReturnMedicalSystem.exe.config
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\ReturnMedicalSystem.exe
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\ReturnMedicalSystem.pdb
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\netstandard.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.AppContext.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Collections.Concurrent.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Collections.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Collections.NonGeneric.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Collections.Specialized.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.ComponentModel.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Console.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Data.Common.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.Debug.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.Process.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.Tools.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Drawing.Primitives.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Dynamic.Runtime.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Globalization.Calendars.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Globalization.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Globalization.Extensions.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.Compression.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.FileSystem.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.Pipes.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Linq.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Linq.Expressions.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Linq.Parallel.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Linq.Queryable.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.Http.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.NameResolution.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.NetworkInformation.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.Ping.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.Primitives.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.Requests.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.Security.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.Sockets.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Net.WebSockets.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.ObjectModel.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Reflection.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Reflection.Extensions.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Reflection.Primitives.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Resources.Reader.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Resources.ResourceManager.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Resources.Writer.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.Extensions.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.Handles.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.InteropServices.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.Numerics.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Security.Claims.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Security.Principal.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Security.SecureString.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Text.Encoding.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Text.RegularExpressions.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Threading.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Threading.Overlapped.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Threading.Tasks.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Threading.Thread.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Threading.ThreadPool.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Threading.Timer.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.ValueTuple.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Xml.XDocument.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Xml.XmlDocument.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Xml.XPath.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.DocumentObjectModel-gdi.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.Rendering-gdi.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.RtfRendering-gdi.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\PdfSharp-gdi.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\PdfSharp.Charting-gdi.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Buffers.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Memory.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Numerics.Vectors.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.DocumentObjectModel-gdi.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.Rendering-gdi.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\MigraDoc.RtfRendering-gdi.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\PdfSharp-gdi.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\PdfSharp.Charting-gdi.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Buffers.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Memory.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Numerics.Vectors.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\Telerik.WinControls.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\Telerik.WinControls.UI.xml
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\MigraDoc.DocumentObjectModel-gdi.resources.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\MigraDoc.Rendering-gdi.resources.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\MigraDoc.RtfRendering-gdi.resources.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\PdfSharp-gdi.resources.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\DynamicPOS.csproj.AssemblyReference.cache
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.exe.config
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Forms.Bills.resources
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Forms.CustomerForm.resources
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Forms.Product.resources
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Forms.ProductsForm.resources
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Login.resources
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Forms.Dashboard.resources
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.Properties.Resources.resources
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\DynamicPOS.csproj.GenerateResource.cache
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.exe.licenses
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\DynamicPOS.csproj.CoreCompileInputs.cache
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\DynamicPOS.csproj.CopyComplete
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.exe
+C:\Uni\5th SEMESTER\VisualProgrammingProjects\ReturnMedicalSystem\ReturnMedicalSystem\ReturnMedicalSystem\obj\Debug\ReturnMedicalSystem.pdb
